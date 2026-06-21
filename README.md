@@ -4,7 +4,7 @@ This repository contains a comprehensive, highly dynamic, and reproducible bash-
 
 ---
 
-## 🧬 What is Hi-C and Why is it Important?
+## What is Hi-C and Why is it Important?
 
 The genome isn’t just a linear string of DNA—it exists as a highly folded, complex three-dimensional structure within the cell nucleus. 
 
@@ -16,7 +16,7 @@ Understanding this 3D architecture is absolutely critical because it dictates ge
 * **Disease & Cancer:** Disruptions in the 3D genome (such as structural variations that merge TADs) can cause enhancers to activate the wrong genes, leading to oncogenesis and other genetic diseases.
 * **Compartmentalization:** It identifies active (A) and inactive (B) compartments, showing large-scale epigenetic states.
 
-## 🚀 Why Use This Pipeline?
+## Why Use This Pipeline?
 
 This pipeline bridges the gap between complex bioinformatics tools and reproducibility. It is designed to be:
 1. **Fully Dynamic:** Just provide a list of SRA IDs or local sample names in the `config.sh`, and the pipeline handles the rest.
@@ -26,7 +26,7 @@ This pipeline bridges the gap between complex bioinformatics tools and reproduci
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 hic_pipeline/
@@ -40,7 +40,7 @@ hic_pipeline/
 
 ---
 
-## 🛠️ Step-by-Step Usage Guide
+## Step-by-Step Usage Guide
 
 Follow these steps to deploy and run the pipeline on your own machine or cluster.
 
