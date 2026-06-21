@@ -1,0 +1,19 @@
+name: hic_analysis
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.9
+  - wget
+  - git
+  - samtools
+  - sra-tools
+  - fastqc
+  - trim-galore
+  - bwa
+  - java-jdk
+  - gcc
+  - make
+  - gawk
+  - parallel
