@@ -47,7 +47,7 @@ Follow these steps to deploy and run the pipeline on your own machine or cluster
 ### Step 1: Clone the Repository
 If you haven't already, clone this repository to your local machine and navigate into the folder:
 ```bash
-git clone <https://github.com/Waqaskhan600/Hi-C_Data_Analysis_Pipeline.git>
+git clone https://github.com/Waqaskhan600/Hi-C_Data_Analysis_Pipeline.git
 cd hic_pipeline
 ```
 
